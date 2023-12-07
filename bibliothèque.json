@@ -1,0 +1,1 @@
+{"books": [{"title": "L'epouvanteur", "author": "Joseph Delaney", "category": "Fantaisie", "is_available": true}, {"title": "Autre Monde", "author": "Maxime Chattam", "category": "Fantaisie", "is_available": true}], "users": [{"name": "Louis", "borrowed_books": []}, {"name": "Gilles", "borrowed_books": []}]}

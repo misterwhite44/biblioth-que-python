@@ -1,0 +1,1 @@
+{"livres": [{"titre": "L'epouvanteur", "auteur": "Joseph Delaney", "categorie": "Fantaisie", "est_disponible": true}, {"titre": "Autre Monde", "auteur": "Maxime Chattam", "categorie": "Fantaisie", "est_disponible": true}], "utilisateurs": [{"nom": "Louis", "livres_empruntes": []}, {"nom": "Gilles", "livres_empruntes": []}, {"nom": "yesman", "livres_empruntes": []}]}
